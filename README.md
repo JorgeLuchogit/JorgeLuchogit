@@ -20,7 +20,7 @@
   </a>  
 </div>
 
-</td><td valign="top" >
+<br>
 
 ### Frontend 
 <div align="center">  
@@ -30,7 +30,7 @@
   </a>
 </div>
 
-</td><td valign="top" >
+<br>
 
 ### Miscellaneous  
 <div align="center">  
@@ -43,11 +43,7 @@
     <img width=30 height=30 title='SQLite' src="https://skillicons.dev/icons?i=sqlite"/>
   </a>
   </div>
-
-</td></tr></table> 
-
-
-<table align='center'><tr><td valign="" width="33%">
+  </td><td valign="" width="33%">
     
 ### Pyhton Libraries
 <div align="center">  
@@ -65,6 +61,8 @@
   </a>  
 </div>
 </td></tr></table> 
+
+
 
 
 
