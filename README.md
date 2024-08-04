@@ -20,7 +20,7 @@
   </a>  
 </div>
 
-<br>
+</td><td valign="" >
 
 ### Frontend 
 <div align="center">  
@@ -30,7 +30,7 @@
   </a>
 </div>
 
-<br>
+</td><td>
 
 ### Miscellaneous  
 <div align="center">  
@@ -43,7 +43,7 @@
     <img width=30 height=30 title='SQLite' src="https://skillicons.dev/icons?i=sqlite"/>
   </a>
   </div>
-  </td><td valign="" width="50%">
+  </td></tr><tr></tr><td  colspan='3' >
     
 ### Pyhton Libraries
 <div align="center">  
