@@ -43,7 +43,7 @@
     <img width=30 height=30 title='SQLite' src="https://skillicons.dev/icons?i=sqlite"/>
   </a>
   </div>
-  </td><td valign="" width="33%">
+  </td><td valign="" width="50%">
     
 ### Pyhton Libraries
 <div align="center">  
