@@ -9,9 +9,9 @@ Physics student in Facultad de Ciencias UNAM ⚛️.
 </div>
 </td><td>
 
-## Visit my website  
+ 
 <div align="center">  
-<a href="jorgeluchogit.github.io">
+<a href="https://jorgeluchogit.github.io/"> Visit my website <br><br>
     <img width=130 height=130 title='My website' src="https://github.com/JorgeLuchogit/JorgeLuchogit.github.io/blob/master/Imagenes/LogoOriginal.jpg"/>
 </a>
 </div>
