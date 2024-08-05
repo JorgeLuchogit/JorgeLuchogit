@@ -11,13 +11,13 @@ Physics student in Facultad de Ciencias UNAM ⚛️.
 
 ## Visit my website  
 <div align="center">  
-<a href="JorgeLuchogit.github.io">
+<a href="jorgeluchogit.github.io">
     <img width=130 height=130 title='My website' src="https://github.com/JorgeLuchogit/JorgeLuchogit.github.io/blob/master/Imagenes/LogoOriginal.jpg"/>
 </a>
 </div>
 </td></tr></table> 
 
-<h2 align='center'><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  IT knowledge </h2>
+<h2 align='center'><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  IT skills & tools </h2>
 
 
 <table align='center'><tr><td valign="top" >
