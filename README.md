@@ -1,8 +1,21 @@
 <h1 align='center'>  Hi! I´m JL-Lucho Cervantes 🔭 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Times&color=c5bc8d&size=27&center=false&lines=I´m+Jorge+Luis...;I+have+26+years+old+...;I´m+a+Physics+student+of+UNAM..."/>
 
-<h2> About me:</h2>
-
+<table align='center'><tr><td valign="top" >
+    
+## About me
+<div align="center">  
 Physics student in Facultad de Ciencias UNAM ⚛️.
+</div>
+</td><td>
+
+## Visit my website  
+<div align="center">  
+<a href="JorgeLuchogit.github.io">
+    <img width=130 height=130 title='My website' src="https://github.com/JorgeLuchogit/JorgeLuchogit.github.io/blob/master/Imagenes/LogoOriginal.jpg"/>
+</a>
+</div>
+</td></tr></table> 
 
 <h2 align='center'><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  IT knowledge </h2>
 
@@ -76,7 +89,7 @@ Physics student in Facultad de Ciencias UNAM ⚛️.
     <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeLuchogit&bg_color=413321,c5bc8d,413321&title_color=000&text_color=000&theme=date_night&hide_border=true" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Times&color=c5bc8d&size=27&center=false&lines=I´m+Jorge+Luis...;I+have+26+years+old+...;I´m+a+Physics+student+of+UNAM..."/>
+
 
 
 
