@@ -1,18 +1,20 @@
-<h1 align='center'>  Hi! I´m JL-Lucho Cervantes 🔭 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Times&color=c5bc8d&size=27&center=false&lines=I´m+Jorge+Luis...;I+have+26+years+old+...;I´m+a+Physics+student+of+UNAM..."/>
+<h1 align='center'> <img src="https://readme-typing-svg.herokuapp.com?font=Times&color=c5bc8d&size=27&center=false&lines=I´m+Jorge+Luis...;I+have+26+years+old+...;I´m+a+Physics+student+of+UNAM..."/></h1> 
 
-<table align='center'><tr><td valign="top" >
+
+<table align='center'><tr><td valign="left" >
     
 ## About me
-<div align="center">  
-Physics student in Facultad de Ciencias UNAM ⚛️.
+<div align="left">  
+- Physics student at Facultad de Ciencias UNAM ⚛️.<br>
+- Currently working on my first projects as developer.<br>
+- Amateur designer. 
 </div>
 </td><td>
 
  
 <div align="center">  
 <a href="https://jorgeluchogit.github.io/"> Visit my website <br><br>
-    <img width=130 height=130 title='My website' src="https://github.com/JorgeLuchogit/JorgeLuchogit.github.io/blob/master/Imagenes/LogoOriginal.jpg"/>
+    <img width=50 height=50 title='My website' src="https://github.com/JorgeLuchogit/JorgeLuchogit.github.io/blob/master/Imagenes/LogoOriginal.jpg"/>
 </a>
 </div>
 </td></tr></table> 
